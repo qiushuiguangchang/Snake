@@ -1,0 +1,45 @@
+﻿  main.cpp
+D:\u盘\贪吃蛇大作战\main.cpp(196,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(196,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(197,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(197,11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(200,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(200,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(203,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(203,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(204,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(204,11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(206,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(206,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(209,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(209,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(210,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(210,11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(212,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(212,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(223,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(223,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(224,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(224,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(225,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(225,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(250,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(250,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(251,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(251,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(252,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(252,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(282,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(282,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(283,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(283,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(284,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(284,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(316,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(316,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(317,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(317,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(318,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\u盘\贪吃蛇大作战\main.cpp(318,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  LINK : 没有找到 D:\u盘\贪吃蛇大作战\x64\Debug\贪吃蛇大作战.exe 或上一个增量链接没有生成它；正在执行完全链接
+  贪吃蛇大作战.vcxproj -> D:\u盘\贪吃蛇大作战\x64\Debug\贪吃蛇大作战.exe

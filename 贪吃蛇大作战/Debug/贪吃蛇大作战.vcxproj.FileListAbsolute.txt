@@ -1,0 +1,2 @@
+E:\Study(C++) Part Ⅱ\贪吃蛇大作战\Debug\贪吃蛇大作战.exe
+E:\Study(C++) Part Ⅱ\贪吃蛇大作战\Debug\贪吃蛇大作战.pdb
